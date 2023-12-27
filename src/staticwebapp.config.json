@@ -13,7 +13,7 @@
     },
     "routes": [
         {
-            "route": "/*",
+            "route": "/guest*",
             "statusCode": 200,
             "allowedRoles": [
                 "authenticated"
